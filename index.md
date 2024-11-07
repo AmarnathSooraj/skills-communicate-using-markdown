@@ -13,3 +13,6 @@ print("Hello World) in python
 console.log("Hello World); javascript
 System.out.println("Hello World"); in java
 ```
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [x] Introduce myself to the world
