@@ -6,3 +6,10 @@
 ##### Heading5.
 ###### Heading6.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+#The display code.
+```
+printf("Hello World); in c
+print("Hello World) in python
+console.log("Hello World); javascript
+System.out.println("Hello World"); in java
+```
